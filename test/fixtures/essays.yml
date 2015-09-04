@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  body: MyText
+  font_size: MyInteger
+  font_colour: MyString
+  background_color: MyString
+  font_type: MyString
+
+two:
+  title: MyString
+  body: MyText
+  font_size: MyInteger
+  font_colour: MyString
+  background_color: MyString
+  font_type: MyString
